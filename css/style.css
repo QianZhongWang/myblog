@@ -443,7 +443,7 @@ body {
   display: inline-block;
   vertical-align: top;
   font-weight: 600;
-  color: #fff;
+  color: #666;
   line-height: 44px;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -452,18 +452,18 @@ body {
   letter-spacing: 3px;
 }
 #header-menu .header-menu-container #header-menu-nav {
-  color: #fff;
+  color: #666;
 }
 #header-menu .header-menu-container #header-menu-nav a {
   margin-left: 15px;
   text-decoration: none;
 }
 #header-menu .header-menu-container #header-menu-nav a i {
-  color: #fff;
+  color: #666;
   font-size: 18px;
 }
 #header-menu .header-menu-container #header-menu-nav a span {
-  color: #fff;
+  color: #666;
   font-size: 15px;
   letter-spacing: 1px;
   -webkit-transition: all 0.5s;
