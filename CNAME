@@ -1,0 +1,2 @@
+$ touch CNAME
+$ echo 'qianzw.wang'> CNAME 
